@@ -10,10 +10,7 @@ alias timestamp="date +%s"
 alias version="commit 'version'"
 
 # Directories
-alias dotfiles="cd $DOTFILES"
-alias library="cd $HOME/Library"
 alias projects="cd $HOME/Code"
-alias sites="cd $HOME/Herd"
 
 # Laravel
 alias a="herd php artisan"
